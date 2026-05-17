@@ -1,0 +1,17 @@
+- [x] 导航栏折叠时图标无跳动，始终居中于导航项区域
+- [x] 导航栏展开时图标平滑回到左对齐位置
+- [x] 折叠/展开动画 300ms OutCubic 缓动流畅
+- [x] 所有 SVG 图标背景完全透明，无白色色块
+- [x] 所有自绘组件（CheckBox、RadioButton、Switch、Slider、Avatar、ProgressRing、ProgressBar）背景透明
+- [x] 主题切换时图标缓存自动清除，颜色正确更新
+- [x] FluentTextArea 组件可正常输入多行文本，支持 placeholder
+- [x] FluentRating 组件可点击选择星级，支持悬停预览
+- [x] FluentToast 组件可弹出通知，3-5s 后自动消失
+- [x] FluentDrawer 组件可从侧边滑入，带遮罩层
+- [x] FluentSkeleton 组件显示脉冲动画占位效果
+- [x] FluentCalendar 组件可选择日期，支持月份切换
+- [x] FluentColorPicker 组件可选择颜色
+- [x] FluentMenuBar 组件可展开下拉菜单
+- [x] Hero 页面显示 algorithmic-art 风格装饰动画背景
+- [x] 所有新组件在 Gallery 页面中有展示
+- [x] 所有组件支持亮色/暗色主题切换
